@@ -1,0 +1,13 @@
+{
+  "name": "real-time-video-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run-server": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
